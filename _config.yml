@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://blog.diffboard.com
+title: Diffboard Blog
+subtitle: 
+author: Balazs Kutil 
 simple_search: http://google.com/search
 description:
 
@@ -64,7 +64,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: diffboard
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
@@ -72,7 +72,7 @@ twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true 
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -95,5 +95,9 @@ disqus_show_comment_count: false
 # Google Analytics
 google_analytics_tracking_id:
 
+# Piwik Analytics
+piwik_url: piwik.kutilovi.cz       # Your Piwik installation URL. Leave out the protocol and trailing slash. E.g. yourdomain.com/piwik
+piwik_site_id: 5                   # ID number (in Piwik) of the site you you want to track.
+
 # Facebook Like
-facebook_like: false
+facebook_like: true 
