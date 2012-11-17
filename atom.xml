@@ -4,7 +4,7 @@
   <title><![CDATA[Diffboard Blog]]></title>
   <link href="http://blog.diffboard.com/atom.xml" rel="self"/>
   <link href="http://blog.diffboard.com/"/>
-  <updated>2012-11-18T00:18:56+01:00</updated>
+  <updated>2012-11-18T00:47:20+01:00</updated>
   <id>http://blog.diffboard.com/</id>
   <author>
     <name><![CDATA[Balazs Kutil]]></name>
@@ -12,5 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Realtime diffs]]></title>
+    <link href="http://blog.diffboard.com/blog/2012/05/03/realtime-diffs/"/>
+    <updated>2012-05-03T17:54:00+02:00</updated>
+    <id>http://blog.diffboard.com/blog/2012/05/03/realtime-diffs</id>
+    <content type="html"><![CDATA[<p>New feature has just been rolled out to production - realtime diffs!</p>
+
+<p>Whenever you&#8217;re updating a snippet, you should now see your changes immediately as you type. How cool is that?</p>
+
+<p><img src="http://blog.diffboard.com/images/edit_diffs.png" title="Realtime diffs feature" alt="Realtime diffs feature" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Diffboard UI revamped]]></title>
+    <link href="http://blog.diffboard.com/blog/2012/04/06/diffboard-ui-revamped/"/>
+    <updated>2012-04-06T15:34:00+02:00</updated>
+    <id>http://blog.diffboard.com/blog/2012/04/06/diffboard-ui-revamped</id>
+    <content type="html"><![CDATA[<p><a href="http://diffboard.com">Diffboard</a> just got a new UI. Major features include:</p>
+
+<ul>
+<li>Fully responsive layout</li>
+</ul>
+
+
+<p>The layout is fluid and scales according to screen resolution. This means that users
+accessing the site from mobile devices will have much better experience.</p>
+
+<ul>
+<li>Better version navigation</li>
+</ul>
+
+
+<p>Since each snippet can have multiple versions, switching between them should be
+as easy as possible. On the other hand, most users are interested only in the
+latest version - so the navigation shouldn&#8217;t clutter the
+interface. Versions are now browsed using a top bar:</p>
+
+<p><img src="http://blog.diffboard.com/images/topbar.png" title="Version navigation using a topbar" alt="Version navigation using a topbar" /></p>
+
+<ul>
+<li>Side by side data and diffs</li>
+</ul>
+
+
+<p>It&#8217;s important to see <em>both</em> the data and the changes. This is archieved
+using a side by side view.</p>
+
+<p>I hope these changes will make the overall <a href="http://diffboard.com">Diffboard</a> user experience better.</p>
+]]></content>
+  </entry>
   
 </feed>
