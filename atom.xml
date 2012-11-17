@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Diffboard Blog]]></title>
+  <link href="http://diffboard.github.com/atom.xml" rel="self"/>
+  <link href="http://diffboard.github.com/"/>
+  <updated>2012-11-18T00:07:53+01:00</updated>
+  <id>http://diffboard.github.com/</id>
+  <author>
+    <name><![CDATA[Balazs Kutil]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
